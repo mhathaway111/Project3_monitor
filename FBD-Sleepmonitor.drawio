@@ -1,0 +1,82 @@
+<mxfile host="app.diagrams.net" modified="2023-09-27T17:17:13.522Z" agent="Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/116.0.0.0 Safari/537.36" etag="JcPGfFXJaCLuTFqCrTpc" version="21.8.0" type="device">
+  <diagram id="C5RBs43oDa-KdzZeNtuy" name="Page-1">
+    <mxGraphModel dx="1050" dy="726" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="827" pageHeight="1169" math="0" shadow="0">
+      <root>
+        <mxCell id="WIyWlLk6GJQsqaUBKTNV-0" />
+        <mxCell id="WIyWlLk6GJQsqaUBKTNV-1" parent="WIyWlLk6GJQsqaUBKTNV-0" />
+        <mxCell id="etBLDx6juac_F21ovLvT-7" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=1;exitY=0.5;exitDx=0;exitDy=0;entryX=0;entryY=0.5;entryDx=0;entryDy=0;" edge="1" parent="WIyWlLk6GJQsqaUBKTNV-1" source="etBLDx6juac_F21ovLvT-0" target="etBLDx6juac_F21ovLvT-4">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="etBLDx6juac_F21ovLvT-0" value="Attachment method" style="whiteSpace=wrap;html=1;aspect=fixed;" vertex="1" parent="WIyWlLk6GJQsqaUBKTNV-1">
+          <mxGeometry x="110" y="372.5" width="105" height="105" as="geometry" />
+        </mxCell>
+        <mxCell id="etBLDx6juac_F21ovLvT-10" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=0.25;exitY=0;exitDx=0;exitDy=0;" edge="1" parent="WIyWlLk6GJQsqaUBKTNV-1" source="etBLDx6juac_F21ovLvT-2">
+          <mxGeometry relative="1" as="geometry">
+            <mxPoint x="265" y="480" as="targetPoint" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="etBLDx6juac_F21ovLvT-2" value="Energy" style="text;html=1;strokeColor=none;fillColor=none;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;" vertex="1" parent="WIyWlLk6GJQsqaUBKTNV-1">
+          <mxGeometry x="250" y="500" width="60" height="30" as="geometry" />
+        </mxCell>
+        <mxCell id="etBLDx6juac_F21ovLvT-20" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=1;exitY=0.5;exitDx=0;exitDy=0;entryX=0;entryY=0.5;entryDx=0;entryDy=0;" edge="1" parent="WIyWlLk6GJQsqaUBKTNV-1" source="etBLDx6juac_F21ovLvT-4" target="etBLDx6juac_F21ovLvT-11">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="etBLDx6juac_F21ovLvT-4" value="Data collection system" style="whiteSpace=wrap;html=1;aspect=fixed;" vertex="1" parent="WIyWlLk6GJQsqaUBKTNV-1">
+          <mxGeometry x="240" y="372.5" width="105" height="105" as="geometry" />
+        </mxCell>
+        <mxCell id="etBLDx6juac_F21ovLvT-21" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=1;exitY=0.5;exitDx=0;exitDy=0;entryX=0;entryY=0.5;entryDx=0;entryDy=0;" edge="1" parent="WIyWlLk6GJQsqaUBKTNV-1" source="etBLDx6juac_F21ovLvT-11" target="etBLDx6juac_F21ovLvT-12">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="etBLDx6juac_F21ovLvT-11" value="Spatial computation method" style="whiteSpace=wrap;html=1;aspect=fixed;" vertex="1" parent="WIyWlLk6GJQsqaUBKTNV-1">
+          <mxGeometry x="361" y="372.5" width="105" height="105" as="geometry" />
+        </mxCell>
+        <mxCell id="etBLDx6juac_F21ovLvT-22" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=1;exitY=0.5;exitDx=0;exitDy=0;entryX=0;entryY=0.5;entryDx=0;entryDy=0;" edge="1" parent="WIyWlLk6GJQsqaUBKTNV-1" source="etBLDx6juac_F21ovLvT-12" target="etBLDx6juac_F21ovLvT-14">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="etBLDx6juac_F21ovLvT-12" value="Health data measurement system" style="whiteSpace=wrap;html=1;aspect=fixed;" vertex="1" parent="WIyWlLk6GJQsqaUBKTNV-1">
+          <mxGeometry x="480" y="372.5" width="105" height="105" as="geometry" />
+        </mxCell>
+        <mxCell id="etBLDx6juac_F21ovLvT-13" value="Temperature" style="text;html=1;strokeColor=none;fillColor=none;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;" vertex="1" parent="WIyWlLk6GJQsqaUBKTNV-1">
+          <mxGeometry x="600" y="500" width="60" height="30" as="geometry" />
+        </mxCell>
+        <mxCell id="etBLDx6juac_F21ovLvT-17" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=1;exitY=0.5;exitDx=0;exitDy=0;" edge="1" parent="WIyWlLk6GJQsqaUBKTNV-1" source="etBLDx6juac_F21ovLvT-14" target="etBLDx6juac_F21ovLvT-16">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="etBLDx6juac_F21ovLvT-18" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=0.25;exitY=1;exitDx=0;exitDy=0;entryX=0.5;entryY=0;entryDx=0;entryDy=0;" edge="1" parent="WIyWlLk6GJQsqaUBKTNV-1" source="etBLDx6juac_F21ovLvT-14" target="etBLDx6juac_F21ovLvT-13">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="etBLDx6juac_F21ovLvT-19" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=0.75;exitY=1;exitDx=0;exitDy=0;" edge="1" parent="WIyWlLk6GJQsqaUBKTNV-1" source="etBLDx6juac_F21ovLvT-14">
+          <mxGeometry relative="1" as="geometry">
+            <mxPoint x="679" y="530" as="targetPoint" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="etBLDx6juac_F21ovLvT-14" value="Display system" style="whiteSpace=wrap;html=1;aspect=fixed;" vertex="1" parent="WIyWlLk6GJQsqaUBKTNV-1">
+          <mxGeometry x="600" y="372.5" width="105" height="105" as="geometry" />
+        </mxCell>
+        <mxCell id="etBLDx6juac_F21ovLvT-15" value="CO2 levels" style="text;html=1;strokeColor=none;fillColor=none;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;" vertex="1" parent="WIyWlLk6GJQsqaUBKTNV-1">
+          <mxGeometry x="640" y="540" width="60" height="30" as="geometry" />
+        </mxCell>
+        <mxCell id="etBLDx6juac_F21ovLvT-16" value="Level of safety of the position" style="text;html=1;strokeColor=none;fillColor=none;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;" vertex="1" parent="WIyWlLk6GJQsqaUBKTNV-1">
+          <mxGeometry x="740" y="395" width="70" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="etBLDx6juac_F21ovLvT-24" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=0.5;exitY=1;exitDx=0;exitDy=0;entryX=0.5;entryY=0;entryDx=0;entryDy=0;" edge="1" parent="WIyWlLk6GJQsqaUBKTNV-1" source="etBLDx6juac_F21ovLvT-23" target="etBLDx6juac_F21ovLvT-4">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="etBLDx6juac_F21ovLvT-23" value="Initializing data" style="text;html=1;strokeColor=none;fillColor=none;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;" vertex="1" parent="WIyWlLk6GJQsqaUBKTNV-1">
+          <mxGeometry x="262.5" y="290" width="60" height="30" as="geometry" />
+        </mxCell>
+        <mxCell id="etBLDx6juac_F21ovLvT-25" value="&lt;h1&gt;Baby sleeping safety&lt;/h1&gt;&lt;p&gt;This sensor would attach to a child in two spots which would measure the angle of the neck and overall sleeping position as well as other key health metrics.&lt;/p&gt;" style="text;html=1;strokeColor=none;fillColor=none;spacing=5;spacingTop=-20;whiteSpace=wrap;overflow=hidden;rounded=0;" vertex="1" parent="WIyWlLk6GJQsqaUBKTNV-1">
+          <mxGeometry x="50" y="40" width="300" height="120" as="geometry" />
+        </mxCell>
+        <mxCell id="etBLDx6juac_F21ovLvT-28" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=1;exitY=0.5;exitDx=0;exitDy=0;" edge="1" parent="WIyWlLk6GJQsqaUBKTNV-1" source="etBLDx6juac_F21ovLvT-26">
+          <mxGeometry relative="1" as="geometry">
+            <mxPoint x="100" y="410" as="targetPoint" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="etBLDx6juac_F21ovLvT-26" value="Request for data" style="text;html=1;strokeColor=none;fillColor=none;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;" vertex="1" parent="WIyWlLk6GJQsqaUBKTNV-1">
+          <mxGeometry x="10" y="395" width="60" height="30" as="geometry" />
+        </mxCell>
+      </root>
+    </mxGraphModel>
+  </diagram>
+</mxfile>
