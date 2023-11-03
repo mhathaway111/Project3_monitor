@@ -1,0 +1,32 @@
+import imports
+
+def connect():
+        imports.display.show(Image.YES)
+        
+
+def not_connect():
+        imports.display.show(Image.NO)
+                        
+def Warning():
+        while True:
+
+            imports.display.show(imports.Image
+                            ('99999:'
+                            '99999:'
+                            '99999:'
+                            '99999:'
+                            '99999'))
+            sleep(250)
+            display.clear()
+            sleep(250)
+            
+import music
+
+while True:
+
+    if control_variable:
+    
+        music.play(music.DADADADUM)
+        
+    else:
+        music.stop()
