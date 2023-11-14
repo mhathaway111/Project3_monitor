@@ -12,12 +12,6 @@ chnl = 13 #change channel to your team number
 radio.config(channel=chnl)
 radio.on()
 
-# baby dimensions in inches
-n = 3 # neck length
-l = 8 # distance from shoulder to top of head
-
-max_angle = math.degrees(math.asin( (l-n) / (l+n) ))
-
 # Code in a 'while True:' loop repeats forever
 while True:
 
@@ -34,10 +28,9 @@ while True:
      
     ax_1 = accelerometer.get_x()
     ax_t = abs(ax_1 - ax_2)
+    sleep(250)
 
-    read_angle = math.degrees(math.atan(ax_t / 9.8))
-
-    if read_angle >= max_angle:
+    if ax_t >= 1100:
         Warning()
     else:
         music.stop()
