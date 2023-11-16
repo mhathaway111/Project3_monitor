@@ -9,7 +9,6 @@ def not_connect():
        display.show(Image.NO)
                         
 def Warning():
-        while True:
             display.show(Image
                             ('99999:'
                             '99999:'
